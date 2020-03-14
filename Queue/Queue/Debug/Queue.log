@@ -1,0 +1,5 @@
+﻿  Queue.c
+D:\code\Queue\Queue\Queue.c(36,12): warning C4098: “In_Queue”:“void”函数返回值
+D:\code\Queue\Queue\Queue.c(50,12): warning C4098: “Out_Queue”:“void”函数返回值
+D:\code\Queue\Queue\Queue.c(63,12): warning C4098: “Print”:“void”函数返回值
+  Queue.vcxproj -> D:\code\Queue\Debug\Queue.exe
